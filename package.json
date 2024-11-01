@@ -1,0 +1,19 @@
+{
+  "name": "static-map-vanilla",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "geo-three": "^0.1.14",
+    "three": "^0.169.0",
+    "three-geo": "^1.4.5"
+  }
+}
